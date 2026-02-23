@@ -1,0 +1,3004 @@
+[
+    {
+      "element": {
+        "name": "Hydrogen",
+        "symbol": "H",
+        "atomic_number": 1,
+        "atomic_mass": 1.008,
+        "electron_configuration": "1s1",
+        "oxidation_states": [-1, 1],
+        "common_uses": [
+          "Rocket fuel",
+          "Ammonia production",
+          "Hydrogen fuel cells"
+        ],
+        "general_properties": {
+          "phase_at_stp": "Gas",
+          "melting_point": 14,
+          "boiling_point": 20
+        },
+        "element_groups": {
+          "category": "Reactive non-metals",
+          "group": 1,
+          "period": 1,
+          "block": "s-block"
+        }
+      }
+    },
+    {
+      "element": {
+        "name": "Helium",
+        "symbol": "He",
+        "atomic_number": 2,
+        "atomic_mass": 4.0026,
+        "electron_configuration": "1s2",
+        "oxidation_states": [0],
+        "common_uses": [
+          "Balloons",
+          "Cryogenics",
+          "Pressurizing rocket fuel tanks"
+        ],
+        "general_properties": {
+          "phase_at_stp": "Gas",
+          "melting_point": 0.95,
+          "boiling_point": 4.22
+        },
+        "element_groups": {
+          "category": "Noble gas",
+          "group": 18,
+          "period": 1,
+          "block": "s-block"
+        }
+      }
+    },
+    {
+      "element": {
+        "name": "Lithium",
+        "symbol": "Li",
+        "atomic_number": 3,
+        "atomic_mass": 6.94,
+        "electron_configuration": "[He] 2s1",
+        "oxidation_states": [1],
+        "common_uses": [
+          "Rechargeable batteries",
+          "Mood-stabilizing drugs",
+          "Alloys for aircraft"
+        ],
+        "general_properties": {
+          "phase_at_stp": "Solid",
+          "melting_point": 454,
+          "boiling_point": 1615
+        },
+        "element_groups": {
+          "category": "Alkali metal",
+          "group": 1,
+          "period": 2,
+          "block": "s-block"
+        }
+      }
+    },
+    {
+      "element": {
+        "name": "Beryllium",
+        "symbol": "Be",
+        "atomic_number": 4,
+        "atomic_mass": 9.0122,
+        "electron_configuration": "[He] 2s2",
+        "oxidation_states": [2],
+        "common_uses": [
+          "X-ray windows",
+          "Aerospace materials",
+          "Nuclear reactors"
+        ],
+        "general_properties": {
+          "phase_at_stp": "Solid",
+          "melting_point": 1560,
+          "boiling_point": 2742
+        },
+        "element_groups": {
+          "category": "Alkaline earth metal",
+          "group": 2,
+          "period": 2,
+          "block": "s-block"
+        }
+      }
+    },
+    {
+      "element": {
+        "name": "Boron",
+        "symbol": "B",
+        "atomic_number": 5,
+        "atomic_mass": 10.81,
+        "electron_configuration": "[He] 2s2 2p1",
+        "oxidation_states": [3],
+        "common_uses": [
+          "Glass and ceramics",
+          "Semiconductors",
+          "Detergents"
+        ],
+        "general_properties": {
+          "phase_at_stp": "Solid",
+          "melting_point": 2349,
+          "boiling_point": 4200
+        },
+        "element_groups": {
+          "category": "Metalloid",
+          "group": 13,
+          "period": 2,
+          "block": "p-block"
+        }
+      }
+    },
+    {
+      "element": {
+        "name": "Carbon",
+        "symbol": "C",
+        "atomic_number": 6,
+        "atomic_mass": 12.01,
+        "electron_configuration": "[He] 2s2 2p2",
+        "oxidation_states": [-4, 2, 4],
+        "common_uses": [
+          "Steel production",
+          "Carbon dating",
+          "In the form of graphite and diamonds"
+        ],
+        "general_properties": {
+          "phase_at_stp": "Solid",
+          "melting_point": 3823,
+          "boiling_point": 4098
+        },
+        "element_groups": {
+          "category": "Reactive non-metals",
+          "group": 14,
+          "period": 2,
+          "block": "p-block"
+        }
+      }
+    },
+    {
+      "element": {
+        "name": "Nitrogen",
+        "symbol": "N",
+        "atomic_number": 7,
+        "atomic_mass": 14.01,
+        "electron_configuration": "[He] 2s2 2p3",
+        "oxidation_states": [-3, 1, 2, 3, 4, 5],
+        "common_uses": [
+          "Fertilizers",
+          "Explosives",
+          "Preserving food"
+        ],
+        "general_properties": {
+          "phase_at_stp": "Gas",
+          "melting_point": 63,
+          "boiling_point": 77
+        },
+        "element_groups": {
+          "category": "Reactive non-metals",
+          "group": 15,
+          "period": 2,
+          "block": "p-block"
+        }
+      }
+    },
+    {
+      "element": {
+        "name": "Oxygen",
+        "symbol": "O",
+        "atomic_number": 8,
+        "atomic_mass": 16.00,
+        "electron_configuration": "[He] 2s2 2p4",
+        "oxidation_states": [-2, -1, 0, 1, 2],
+        "common_uses": [
+          "Respiration",
+          "Steelmaking",
+          "Medical applications"
+        ],
+        "general_properties": {
+          "phase_at_stp": "Gas",
+          "melting_point": 54,
+          "boiling_point": 90
+        },
+        "element_groups": {
+          "category": "Reactive non-metals",
+          "group": 16,
+          "period": 2,
+          "block": "p-block"
+        }
+      }
+    },
+    {
+      "element": {
+        "name": "Fluorine",
+        "symbol": "F",
+        "atomic_number": 9,
+        "atomic_mass": 19.00,
+        "electron_configuration": "[He] 2s2 2p5",
+        "oxidation_states": [-1],
+        "common_uses": [
+          "Toothpaste",
+          "Teflon production",
+          "Water fluoridation"
+        ],
+        "general_properties": {
+          "phase_at_stp": "Gas",
+          "melting_point": 53,
+          "boiling_point": 85
+        },
+        "element_groups": {
+          "category": "Reactive non-metals",
+          "group": 17,
+          "period": 2,
+          "block": "p-block"
+        }
+      }
+    },
+    {
+      "element": {
+        "name": "Neon",
+        "symbol": "Ne",
+        "atomic_number": 10,
+        "atomic_mass": 20.18,
+        "electron_configuration": "[He] 2s2 2p6",
+        "oxidation_states": [0],
+        "common_uses": [
+          "Neon signs",
+          "High-voltage indicators",
+          "Vacuum tubes"
+        ],
+        "general_properties": {
+          "phase_at_stp": "Gas",
+          "melting_point": 25,
+          "boiling_point": 27
+        },
+        "element_groups": {
+          "category": "Noble gas",
+          "group": 18,
+          "period": 2,
+          "block": "p-block"
+        }
+      }
+    },{
+        "element": {
+          "name": "Sodium",
+          "symbol": "Na",
+          "atomic_number": 11,
+          "atomic_mass": 22.99,
+          "electron_configuration": "[Ne] 3s1",
+          "oxidation_states": [1],
+          "common_uses": [
+            "Table salt (NaCl)",
+            "Street lighting",
+            "Chemical industry"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 371,
+            "boiling_point": 1156
+          },
+          "element_groups": {
+            "category": "Alkali metal",
+            "group": 1,
+            "period": 3,
+            "block": "s-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Magnesium",
+          "symbol": "Mg",
+          "atomic_number": 12,
+          "atomic_mass": 24.31,
+          "electron_configuration": "[Ne] 3s2",
+          "oxidation_states": [2],
+          "common_uses": [
+            "Alloys",
+            "Fireworks",
+            "Health supplements"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 923,
+            "boiling_point": 1380
+          },
+          "element_groups": {
+            "category": "Alkaline earth metal",
+            "group": 2,
+            "period": 3,
+            "block": "s-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Aluminium",
+          "symbol": "Al",
+          "atomic_number": 13,
+          "atomic_mass": 26.98,
+          "electron_configuration": "[Ne] 3s2 3p1",
+          "oxidation_states": [3],
+          "common_uses": [
+            "Cans and foils",
+            "Aircraft bodies",
+            "Electrical wiring"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 933,
+            "boiling_point": 2743
+          },
+          "element_groups": {
+            "category": "Post-transition metal",
+            "group": 13,
+            "period": 3,
+            "block": "p-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Silicon",
+          "symbol": "Si",
+          "atomic_number": 14,
+          "atomic_mass": 28.09,
+          "electron_configuration": "[Ne] 3s2 3p2",
+          "oxidation_states": [-4, 4],
+          "common_uses": [
+            "Semiconductors",
+            "Glass production",
+            "Silicones"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 1687,
+            "boiling_point": 3538
+          },
+          "element_groups": {
+            "category": "Metalloid",
+            "group": 14,
+            "period": 3,
+            "block": "p-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Phosphorus",
+          "symbol": "P",
+          "atomic_number": 15,
+          "atomic_mass": 30.97,
+          "electron_configuration": "[Ne] 3s2 3p3",
+          "oxidation_states": [-3, 3, 5],
+          "common_uses": [
+            "Fertilizers",
+            "Matches",
+            "Pesticides"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 317,
+            "boiling_point": 553
+          },
+          "element_groups": {
+            "category": "Reactive non-metals",
+            "group": 15,
+            "period": 3,
+            "block": "p-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Sulfur",
+          "symbol": "S",
+          "atomic_number": 16,
+          "atomic_mass": 32.07,
+          "electron_configuration": "[Ne] 3s2 3p4",
+          "oxidation_states": [-2, 2, 4, 6],
+          "common_uses": [
+            "Sulfuric acid",
+            "Vulcanization of rubber",
+            "Fungicides"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 388,
+            "boiling_point": 718
+          },
+          "element_groups": {
+            "category": "Reactive non-metals",
+            "group": 16,
+            "period": 3,
+            "block": "p-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Chlorine",
+          "symbol": "Cl",
+          "atomic_number": 17,
+          "atomic_mass": 35.45,
+          "electron_configuration": "[Ne] 3s2 3p5",
+          "oxidation_states": [-1, 1, 3, 5, 7],
+          "common_uses": [
+            "Disinfectants",
+            "PVC production",
+            "Bleaching agents"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Gas",
+            "melting_point": 172,
+            "boiling_point": 239
+          },
+          "element_groups": {
+            "category": "Reactive non-metals",
+            "group": 17,
+            "period": 3,
+            "block": "p-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Argon",
+          "symbol": "Ar",
+          "atomic_number": 18,
+          "atomic_mass": 39.95,
+          "electron_configuration": "[Ne] 3s2 3p6",
+          "oxidation_states": [0],
+          "common_uses": [
+            "Inert gas in welding",
+            "Light bulbs",
+            "Preserving documents"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Gas",
+            "melting_point": 84,
+            "boiling_point": 87
+          },
+          "element_groups": {
+            "category": "Noble gas",
+            "group": 18,
+            "period": 3,
+            "block": "p-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Potassium",
+          "symbol": "K",
+          "atomic_number": 19,
+          "atomic_mass": 39.10,
+          "electron_configuration": "[Ar] 4s1",
+          "oxidation_states": [1],
+          "common_uses": [
+            "Fertilizers",
+            "Soaps",
+            "Electrolyte regulation in body"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 337,
+            "boiling_point": 1032
+          },
+          "element_groups": {
+            "category": "Alkali metal",
+            "group": 1,
+            "period": 4,
+            "block": "s-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Calcium",
+          "symbol": "Ca",
+          "atomic_number": 20,
+          "atomic_mass": 40.08,
+          "electron_configuration": "[Ar] 4s2",
+          "oxidation_states": [2],
+          "common_uses": [
+            "Bones and teeth",
+            "Cement and concrete",
+            "Antacids"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 1115,
+            "boiling_point": 1757
+          },
+          "element_groups": {
+            "category": "Alkaline earth metal",
+            "group": 2,
+            "period": 4,
+            "block": "s-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Scandium",
+          "symbol": "Sc",
+          "atomic_number": 21,
+          "atomic_mass": 44.96,
+          "electron_configuration": "[Ar] 3d1 4s2",
+          "oxidation_states": [3],
+          "common_uses": [
+            "Aerospace components",
+            "Lighting",
+            "Sports equipment"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 1814,
+            "boiling_point": 3109
+          },
+          "element_groups": {
+            "category": "Transition metal",
+            "group": 3,
+            "period": 4,
+            "block": "d-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Titanium",
+          "symbol": "Ti",
+          "atomic_number": 22,
+          "atomic_mass": 47.87,
+          "electron_configuration": "[Ar] 3d2 4s2",
+          "oxidation_states": [4],
+          "common_uses": [
+            "Aircraft and spacecraft",
+            "Medical implants",
+            "Pigments (TiO₂)"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 1941,
+            "boiling_point": 3560
+          },
+          "element_groups": {
+            "category": "Transition metal",
+            "group": 4,
+            "period": 4,
+            "block": "d-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Vanadium",
+          "symbol": "V",
+          "atomic_number": 23,
+          "atomic_mass": 50.94,
+          "electron_configuration": "[Ar] 3d3 4s2",
+          "oxidation_states": [2, 3, 4, 5],
+          "common_uses": [
+            "Steel alloys",
+            "Batteries",
+            "Catalysts"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 2183,
+            "boiling_point": 3680
+          },
+          "element_groups": {
+            "category": "Transition metal",
+            "group": 5,
+            "period": 4,
+            "block": "d-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Chromium",
+          "symbol": "Cr",
+          "atomic_number": 24,
+          "atomic_mass": 51.996,
+          "electron_configuration": "[Ar] 3d5 4s1",
+          "oxidation_states": [2, 3, 6],
+          "common_uses": [
+            "Stainless steel",
+            "Chrome plating",
+            "Pigments"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 2180,
+            "boiling_point": 2944
+          },
+          "element_groups": {
+            "category": "Transition metal",
+            "group": 6,
+            "period": 4,
+            "block": "d-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Manganese",
+          "symbol": "Mn",
+          "atomic_number": 25,
+          "atomic_mass": 54.94,
+          "electron_configuration": "[Ar] 3d5 4s2",
+          "oxidation_states": [2, 3, 4, 6, 7],
+          "common_uses": [
+            "Steel production",
+            "Batteries",
+            "Fertilizers"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 1519,
+            "boiling_point": 2334
+          },
+          "element_groups": {
+            "category": "Transition metal",
+            "group": 7,
+            "period": 4,
+            "block": "d-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Iron",
+          "symbol": "Fe",
+          "atomic_number": 26,
+          "atomic_mass": 55.85,
+          "electron_configuration": "[Ar] 3d6 4s2",
+          "oxidation_states": [2, 3],
+          "common_uses": [
+            "Construction",
+            "Manufacturing",
+            "Hemoglobin in blood"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 1811,
+            "boiling_point": 3134
+          },
+          "element_groups": {
+            "category": "Transition metal",
+            "group": 8,
+            "period": 4,
+            "block": "d-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Cobalt",
+          "symbol": "Co",
+          "atomic_number": 27,
+          "atomic_mass": 58.93,
+          "electron_configuration": "[Ar] 3d7 4s2",
+          "oxidation_states": [2, 3],
+          "common_uses": [
+            "Alloys",
+            "Batteries",
+            "Pigments"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 1768,
+            "boiling_point": 3200
+          },
+          "element_groups": {
+            "category": "Transition metal",
+            "group": 9,
+            "period": 4,
+            "block": "d-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Nickel",
+          "symbol": "Ni",
+          "atomic_number": 28,
+          "atomic_mass": 58.69,
+          "electron_configuration": "[Ar] 3d8 4s2",
+          "oxidation_states": [2, 3],
+          "common_uses": [
+            "Stainless steel",
+            "Batteries",
+            "Coins"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 1728,
+            "boiling_point": 3186
+          },
+          "element_groups": {
+            "category": "Transition metal",
+            "group": 10,
+            "period": 4,
+            "block": "d-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Copper",
+          "symbol": "Cu",
+          "atomic_number": 29,
+          "atomic_mass": 63.55,
+          "electron_configuration": "[Ar] 3d10 4s1",
+          "oxidation_states": [1, 2],
+          "common_uses": [
+            "Electrical wiring",
+            "Plumbing",
+            "Coins"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 1358,
+            "boiling_point": 2835
+          },
+          "element_groups": {
+            "category": "Transition metal",
+            "group": 11,
+            "period": 4,
+            "block": "d-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Zinc",
+          "symbol": "Zn",
+          "atomic_number": 30,
+          "atomic_mass": 65.38,
+          "electron_configuration": "[Ar] 3d10 4s2",
+          "oxidation_states": [2],
+          "common_uses": [
+            "Galvanization",
+            "Alloys (e.g., brass)",
+            "Health supplements"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 693,
+            "boiling_point": 1180
+          },
+          "element_groups": {
+            "category": "Transition metal",
+            "group": 12,
+            "period": 4,
+            "block": "d-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Gallium",
+          "symbol": "Ga",
+          "atomic_number": 31,
+          "atomic_mass": 69.72,
+          "electron_configuration": "[Ar] 3d10 4s2 4p1",
+          "oxidation_states": [3],
+          "common_uses": [
+            "Semiconductors (e.g., GaAs)",
+            "LEDs",
+            "Thermometers"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 303,
+            "boiling_point": 2477
+          },
+          "element_groups": {
+            "category": "Post-transition metal",
+            "group": 13,
+            "period": 4,
+            "block": "p-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Germanium",
+          "symbol": "Ge",
+          "atomic_number": 32,
+          "atomic_mass": 72.63,
+          "electron_configuration": "[Ar] 3d10 4s2 4p2",
+          "oxidation_states": [2, 4],
+          "common_uses": [
+            "Semiconductors",
+            "Fiber optics",
+            "Infrared optics"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 1211,
+            "boiling_point": 3106
+          },
+          "element_groups": {
+            "category": "Metalloid",
+            "group": 14,
+            "period": 4,
+            "block": "p-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Arsenic",
+          "symbol": "As",
+          "atomic_number": 33,
+          "atomic_mass": 74.92,
+          "electron_configuration": "[Ar] 3d10 4s2 4p3",
+          "oxidation_states": [-3, 3, 5],
+          "common_uses": [
+            "Pesticides",
+            "Semiconductors",
+            "Alloys"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 1090,
+            "boiling_point": 887
+          },
+          "element_groups": {
+            "category": "Metalloid",
+            "group": 15,
+            "period": 4,
+            "block": "p-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Selenium",
+          "symbol": "Se",
+          "atomic_number": 34,
+          "atomic_mass": 78.96,
+          "electron_configuration": "[Ar] 3d10 4s2 4p4",
+          "oxidation_states": [-2, 4, 6],
+          "common_uses": [
+            "Photocopiers",
+            "Glass production",
+            "Nutritional supplements"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 494,
+            "boiling_point": 958
+          },
+          "element_groups": {
+            "category": "Reactive non-metals",
+            "group": 16,
+            "period": 4,
+            "block": "p-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Bromine",
+          "symbol": "Br",
+          "atomic_number": 35,
+          "atomic_mass": 79.90,
+          "electron_configuration": "[Ar] 3d10 4s2 4p5",
+          "oxidation_states": [-1, 1, 3, 5],
+          "common_uses": [
+            "Flame retardants",
+            "Photography",
+            "Disinfectants"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Liquid",
+            "melting_point": 266,
+            "boiling_point": 332
+          },
+          "element_groups": {
+            "category": "Reactive non-metals",
+            "group": 17,
+            "period": 4,
+            "block": "p-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Krypton",
+          "symbol": "Kr",
+          "atomic_number": 36,
+          "atomic_mass": 83.80,
+          "electron_configuration": "[Ar] 3d10 4s2 4p6",
+          "oxidation_states": [0, 2],
+          "common_uses": [
+            "Lighting",
+            "Photography flashes",
+            "Lasers"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Gas",
+            "melting_point": 116,
+            "boiling_point": 120
+          },
+          "element_groups": {
+            "category": "Noble gas",
+            "group": 18,
+            "period": 4,
+            "block": "p-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Rubidium",
+          "symbol": "Rb",
+          "atomic_number": 37,
+          "atomic_mass": 85.47,
+          "electron_configuration": "[Kr] 5s1",
+          "oxidation_states": [1],
+          "common_uses": [
+            "Research",
+            "Vacuum tubes",
+            "Atomic clocks"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 312,
+            "boiling_point": 961
+          },
+          "element_groups": {
+            "category": "Alkali metal",
+            "group": 1,
+            "period": 5,
+            "block": "s-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Strontium",
+          "symbol": "Sr",
+          "atomic_number": 38,
+          "atomic_mass": 87.62,
+          "electron_configuration": "[Kr] 5s2",
+          "oxidation_states": [2],
+          "common_uses": [
+            "Fireworks (red color)",
+            "Medical imaging",
+            "Magnets"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 1050,
+            "boiling_point": 1655
+          },
+          "element_groups": {
+            "category": "Alkaline earth metal",
+            "group": 2,
+            "period": 5,
+            "block": "s-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Yttrium",
+          "symbol": "Y",
+          "atomic_number": 39,
+          "atomic_mass": 88.91,
+          "electron_configuration": "[Kr] 4d1 5s2",
+          "oxidation_states": [3],
+          "common_uses": [
+            "LEDs",
+            "Superconductors",
+            "Cancer treatment"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 1799,
+            "boiling_point": 3203
+          },
+          "element_groups": {
+            "category": "Transition metal",
+            "group": 3,
+            "period": 5,
+            "block": "d-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Zirconium",
+          "symbol": "Zr",
+          "atomic_number": 40,
+          "atomic_mass": 91.22,
+          "electron_configuration": "[Kr] 4d2 5s2",
+          "oxidation_states": [4],
+          "common_uses": [
+            "Nuclear reactors",
+            "Ceramics",
+            "Alloys"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 2128,
+            "boiling_point": 4650
+          },
+          "element_groups": {
+            "category": "Transition metal",
+            "group": 4,
+            "period": 5,
+            "block": "d-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Niobium",
+          "symbol": "Nb",
+          "atomic_number": 41,
+          "atomic_mass": 92.906,
+          "electron_configuration": "[Kr] 4d4 5s1",
+          "oxidation_states": [5, 3],
+          "common_uses": [
+            "Steel alloys",
+            "Superconducting magnets",
+            "Welding"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 2477,
+            "boiling_point": 4741
+          },
+          "element_groups": {
+            "category": "Transition metal",
+            "group": 5,
+            "period": 5,
+            "block": "d-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Molybdenum",
+          "symbol": "Mo",
+          "atomic_number": 42,
+          "atomic_mass": 95.95,
+          "electron_configuration": "[Kr] 4d5 5s1",
+          "oxidation_states": [6, 5, 4, 3, 2],
+          "common_uses": [
+            "Steel alloys",
+            "Catalysts",
+            "Electronics"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 2896,
+            "boiling_point": 4912
+          },
+          "element_groups": {
+            "category": "Transition metal",
+            "group": 6,
+            "period": 5,
+            "block": "d-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Technetium",
+          "symbol": "Tc",
+          "atomic_number": 43,
+          "atomic_mass": 98,
+          "electron_configuration": "[Kr] 4d5 5s2",
+          "oxidation_states": [7, 6, 5, 4],
+          "common_uses": [
+            "Medical imaging",
+            "Research"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 2157,
+            "boiling_point": 4262
+          },
+          "element_groups": {
+            "category": "Transition metal",
+            "group": 7,
+            "period": 5,
+            "block": "d-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Ruthenium",
+          "symbol": "Ru",
+          "atomic_number": 44,
+          "atomic_mass": 101.07,
+          "electron_configuration": "[Kr] 4d7 5s1",
+          "oxidation_states": [3, 4, 2],
+          "common_uses": [
+            "Electrical contacts",
+            "Catalysts",
+            "Alloys"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 2334,
+            "boiling_point": 4150
+          },
+          "element_groups": {
+            "category": "Transition metal",
+            "group": 8,
+            "period": 5,
+            "block": "d-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Rhodium",
+          "symbol": "Rh",
+          "atomic_number": 45,
+          "atomic_mass": 102.91,
+          "electron_configuration": "[Kr] 4d8 5s1",
+          "oxidation_states": [3, 1, 2],
+          "common_uses": [
+            "Catalytic converters",
+            "Jewelry",
+            "Electrical contacts"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 1964,
+            "boiling_point": 3695
+          },
+          "element_groups": {
+            "category": "Transition metal",
+            "group": 9,
+            "period": 5,
+            "block": "d-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Palladium",
+          "symbol": "Pd",
+          "atomic_number": 46,
+          "atomic_mass": 106.42,
+          "electron_configuration": "[Kr] 4d10",
+          "oxidation_states": [2, 0],
+          "common_uses": [
+            "Catalytic converters",
+            "Electronics",
+            "Jewelry"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 1555,
+            "boiling_point": 2963
+          },
+          "element_groups": {
+            "category": "Transition metal",
+            "group": 10,
+            "period": 5,
+            "block": "d-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Silver",
+          "symbol": "Ag",
+          "atomic_number": 47,
+          "atomic_mass": 107.87,
+          "electron_configuration": "[Kr] 4d10 5s1",
+          "oxidation_states": [1],
+          "common_uses": [
+            "Jewelry",
+            "Electronics",
+            "Photography"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 961.8,
+            "boiling_point": 2162
+          },
+          "element_groups": {
+            "category": "Transition metal",
+            "group": 11,
+            "period": 5,
+            "block": "d-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Cadmium",
+          "symbol": "Cd",
+          "atomic_number": 48,
+          "atomic_mass": 112.41,
+          "electron_configuration": "[Kr] 4d10 5s2",
+          "oxidation_states": [2],
+          "common_uses": [
+            "Batteries",
+            "Pigments",
+            "Coatings"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 321.1,
+            "boiling_point": 767
+          },
+          "element_groups": {
+            "category": "Transition metal",
+            "group": 12,
+            "period": 5,
+            "block": "d-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Indium",
+          "symbol": "In",
+          "atomic_number": 49,
+          "atomic_mass": 114.82,
+          "electron_configuration": "[Kr] 4d10 5s2 5p1",
+          "oxidation_states": [3, 1],
+          "common_uses": [
+            "Touchscreens",
+            "Semiconductors",
+            "Alloys"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 156.6,
+            "boiling_point": 2072
+          },
+          "element_groups": {
+            "category": "Post-transition metal",
+            "group": 13,
+            "period": 5,
+            "block": "p-block"
+          }
+        }
+      },
+      {
+        "element": {
+          "name": "Tin",
+          "symbol": "Sn",
+          "atomic_number": 50,
+          "atomic_mass": 118.71,
+          "electron_configuration": "[Kr] 4d10 5s2 5p2",
+          "oxidation_states": [4, 2],
+          "common_uses": [
+            "Solder",
+            "Coatings",
+            "Alloys"
+          ],
+          "general_properties": {
+            "phase_at_stp": "Solid",
+            "melting_point": 231.9,
+            "boiling_point": 2602
+          },
+          "element_groups": {
+            "category": "Post-transition metal",
+            "group": 14,
+            "period": 5,
+            "block": "p-block"
+          }
+        }
+      }, {
+        "element": {
+            "name": "Antimony",
+            "symbol": "Sb",
+            "atomic_number": 51,
+            "atomic_mass": 121.76,
+            "electron_configuration": "[Kr] 4d10 5s2 5p3",
+            "oxidation_states": [5, 3, -3],
+            "common_uses": [
+                "Flame retardants",
+                "Batteries",
+                "Alloys"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 630.6,
+                "boiling_point": 1587
+            },
+            "element_groups": {
+                "category": "Metalloid",
+                "group": 15,
+                "period": 5,
+                "block": "p-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Tellurium",
+            "symbol": "Te",
+            "atomic_number": 52,
+            "atomic_mass": 127.60,
+            "electron_configuration": "[Kr] 4d10 5s2 5p4",
+            "oxidation_states": [6, 4, -2],
+            "common_uses": [
+                "Thermoelectric devices",
+                "Metal alloys",
+                "Solar cells"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 449.51,
+                "boiling_point": 988
+            },
+            "element_groups": {
+                "category": "Metalloid",
+                "group": 16,
+                "period": 5,
+                "block": "p-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Iodine",
+            "symbol": "I",
+            "atomic_number": 53,
+            "atomic_mass": 126.90,
+            "electron_configuration": "[Kr] 4d10 5s2 5p5",
+            "oxidation_states": [7, 5, 1, -1],
+            "common_uses": [
+                "Antiseptics",
+                "Photography",
+                "Dyes"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 113.7,
+                "boiling_point": 184.3
+            },
+            "element_groups": {
+                "category": "Reactive non-metals",
+                "group": 17,
+                "period": 5,
+                "block": "p-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Xenon",
+            "symbol": "Xe",
+            "atomic_number": 54,
+            "atomic_mass": 131.29,
+            "electron_configuration": "[Kr] 4d10 5s2 5p6",
+            "oxidation_states": [2, 4, 6, 8],
+            "common_uses": [
+                "Lighting",
+                "Imaging",
+                "Anesthesia"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Gas",
+                "melting_point": 161.3,
+                "boiling_point": 165.1
+            },
+            "element_groups": {
+                "category": "Noble gas",
+                "group": 18,
+                "period": 5,
+                "block": "p-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Cesium",
+            "symbol": "Cs",
+            "atomic_number": 55,
+            "atomic_mass": 132.91,
+            "electron_configuration": "[Xe] 6s1",
+            "oxidation_states": [1],
+            "common_uses": [
+                "Atomic clocks",
+                "Drilling fluids",
+                "Electronics"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 28.5,
+                "boiling_point": 671
+            },
+            "element_groups": {
+                "category": "Alkali metal",
+                "group": 1,
+                "period": 6,
+                "block": "s-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Barium",
+            "symbol": "Ba",
+            "atomic_number": 56,
+            "atomic_mass": 137.33,
+            "electron_configuration": "[Xe] 6s2",
+            "oxidation_states": [2],
+            "common_uses": [
+                "Medical imaging",
+                "Fireworks",
+                "Glassmaking"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 727,
+                "boiling_point": 1845
+            },
+            "element_groups": {
+                "category": "Alkaline earth metal",
+                "group": 2,
+                "period": 6,
+                "block": "s-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Lanthanum",
+            "symbol": "La",
+            "atomic_number": 57,
+            "atomic_mass": 138.91,
+            "electron_configuration": "[Xe] 5d1 6s2",
+            "oxidation_states": [3],
+            "common_uses": [
+                "Camera lenses",
+                "Catalysts",
+                "Lighting"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 920,
+                "boiling_point": 3464
+            },
+            "element_groups": {
+                "category": "Lanthanoid",
+                "group": 3,
+                "period": 6,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Hafnium",
+            "symbol": "Hf",
+            "atomic_number": 72,
+            "atomic_mass": 178.49,
+            "electron_configuration": "[Xe] 4f14 5d2 6s2",
+            "oxidation_states": [4],
+            "common_uses": [
+                "Nuclear reactor control rods",
+                "Microprocessor chips",
+                "Plasma cutting electrodes"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 2233,
+                "boiling_point": 4603
+            },
+            "element_groups": {
+                "category": "Transition metal",
+                "group": 4,
+                "period": 6,
+                "block": "d-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Tantalum",
+            "symbol": "Ta",
+            "atomic_number": 73,
+            "atomic_mass": 180.95,
+            "electron_configuration": "[Xe] 4f14 5d3 6s2",
+            "oxidation_states": [5],
+            "common_uses": [
+                "Electrolytic capacitors",
+                "Surgical implants",
+                "Chemical process equipment"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 3017,
+                "boiling_point": 5458
+            },
+            "element_groups": {
+                "category": "Transition metal",
+                "group": 5,
+                "period": 6,
+                "block": "d-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Tungsten",
+            "symbol": "W",
+            "atomic_number": 74,
+            "atomic_mass": 183.84,
+            "electron_configuration": "[Xe] 4f14 5d4 6s2",
+            "oxidation_states": [6, 4],
+            "common_uses": [
+                "Incandescent light bulb filaments",
+                "Armor-piercing ammunition",
+                "High-speed tools"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 3422,
+                "boiling_point": 5555
+            },
+            "element_groups": {
+                "category": "Transition metal",
+                "group": 6,
+                "period": 6,
+                "block": "d-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Rhenium",
+            "symbol": "Re",
+            "atomic_number": 75,
+            "atomic_mass": 186.21,
+            "electron_configuration": "[Xe] 4f14 5d5 6s2",
+            "oxidation_states": [7, 4, 6],
+            "common_uses": [
+                "Jet engine components",
+                "Thermocouples",
+                "Petroleum reforming catalysts"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 3186,
+                "boiling_point": 5596
+            },
+            "element_groups": {
+                "category": "Transition metal",
+                "group": 7,
+                "period": 6,
+                "block": "d-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Osmium",
+            "symbol": "Os",
+            "atomic_number": 76,
+            "atomic_mass": 190.23,
+            "electron_configuration": "[Xe] 4f14 5d6 6s2",
+            "oxidation_states": [4, 3, 8],
+            "common_uses": [
+                "Fountain pen tips",
+                "Electrical contacts",
+                "Instrument pivots"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 3033,
+                "boiling_point": 5012
+            },
+            "element_groups": {
+                "category": "Transition metal",
+                "group": 8,
+                "period": 6,
+                "block": "d-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Iridium",
+            "symbol": "Ir",
+            "atomic_number": 77,
+            "atomic_mass": 192.22,
+            "electron_configuration": "[Xe] 4f14 5d7 6s2",
+            "oxidation_states": [4, 3],
+            "common_uses": [
+                "Spark plugs",
+                "Crucibles for crystal growth",
+                "International prototype kilogram"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 2466,
+                "boiling_point": 4428
+            },
+            "element_groups": {
+                "category": "Transition metal",
+                "group": 9,
+                "period": 6,
+                "block": "d-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Platinum",
+            "symbol": "Pt",
+            "atomic_number": 78,
+            "atomic_mass": 195.08,
+            "electron_configuration": "[Xe] 4f14 5d9 6s1",
+            "oxidation_states": [2, 4],
+            "common_uses": [
+                "Catalytic converters",
+                "Jewelry",
+                "Laboratory equipment"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 1768,
+                "boiling_point": 3825
+            },
+            "element_groups": {
+                "category": "Transition metal",
+                "group": 10,
+                "period": 6,
+                "block": "d-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Gold",
+            "symbol": "Au",
+            "atomic_number": 79,
+            "atomic_mass": 196.97,
+            "electron_configuration": "[Xe] 4f14 5d10 6s1",
+            "oxidation_states": [3, 1],
+            "common_uses": [
+                "Jewelry",
+                "Electronics",
+                "Monetary systems"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 1064,
+                "boiling_point": 2970
+            },
+            "element_groups": {
+                "category": "Transition metal",
+                "group": 11,
+                "period": 6,
+                "block": "d-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Mercury",
+            "symbol": "Hg",
+            "atomic_number": 80,
+            "atomic_mass": 200.59,
+            "electron_configuration": "[Xe] 4f14 5d10 6s2",
+            "oxidation_states": [2, 1],
+            "common_uses": [
+                "Thermometers",
+                "Barometers",
+                "Fluorescent lamps"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Liquid",
+                "melting_point": -38.83,
+                "boiling_point": 356.73
+            },
+            "element_groups": {
+                "category": "Transition metal",
+                "group": 12,
+                "period": 6,
+                "block": "d-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Thallium",
+            "symbol": "Tl",
+            "atomic_number": 81,
+            "atomic_mass": 204.38,
+            "electron_configuration": "[Xe] 4f14 5d10 6s2 6p1",
+            "oxidation_states": [3, 1],
+            "common_uses": [
+                "Infrared detectors",
+                "Low-melting glasses",
+                "Rat poison (historical)"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 304,
+                "boiling_point": 1473
+            },
+            "element_groups": {
+                "category": "Post-transition metal",
+                "group": 13,
+                "period": 6,
+                "block": "p-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Lead",
+            "symbol": "Pb",
+            "atomic_number": 82,
+            "atomic_mass": 207.2,
+            "electron_configuration": "[Xe] 4f14 5d10 6s2 6p2",
+            "oxidation_states": [4, 2],
+            "common_uses": [
+                "Batteries",
+                "Radiation shielding",
+                "Construction materials"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 327.46,
+                "boiling_point": 1749
+            },
+            "element_groups": {
+                "category": "Post-transition metal",
+                "group": 14,
+                "period": 6,
+                "block": "p-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Bismuth",
+            "symbol": "Bi",
+            "atomic_number": 83,
+            "atomic_mass": 208.98,
+            "electron_configuration": "[Xe] 4f14 5d10 6s2 6p3",
+            "oxidation_states": [3, 5],
+            "common_uses": [
+                "Pepto-Bismol",
+                "Low-melting alloys",
+                "Cosmetics"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 271.5,
+                "boiling_point": 1564
+            },
+            "element_groups": {
+                "category": "Post-transition metal",
+                "group": 15,
+                "period": 6,
+                "block": "p-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Polonium",
+            "symbol": "Po",
+            "atomic_number": 84,
+            "atomic_mass": 209,
+            "electron_configuration": "[Xe] 4f14 5d10 6s2 6p4",
+            "oxidation_states": [4, 2],
+            "common_uses": [
+                "Static eliminators",
+                "Heat sources in space probes",
+                "Nuclear triggers"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 254,
+                "boiling_point": 962
+            },
+            "element_groups": {
+                "category": "Post-transition metal",
+                "group": 16,
+                "period": 6,
+                "block": "p-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Astatine",
+            "symbol": "At",
+            "atomic_number": 85,
+            "atomic_mass": 210,
+            "electron_configuration": "[Xe] 4f14 5d10 6s2 6p5",
+            "oxidation_states": [7, 5, 3, 1, -1],
+            "common_uses": [
+                "Scientific research only",
+                "Potential cancer treatment (radioactive)"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 302,
+                "boiling_point": 337
+            },
+            "element_groups": {
+                "category": "Post-transition metal",
+                "group": 17,
+                "period": 6,
+                "block": "p-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Radon",
+            "symbol": "Rn",
+            "atomic_number": 86,
+            "atomic_mass": 222,
+            "electron_configuration": "[Xe] 4f14 5d10 6s2 6p6",
+            "oxidation_states": [2, 0],
+            "common_uses": [
+                "Radiation therapy (historical)",
+                "Earthquake prediction research"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Gas",
+                "melting_point": -71,
+                "boiling_point": -61.7
+            },
+            "element_groups": {
+                "category": "Noble gas",
+                "group": 18,
+                "period": 6,
+                "block": "p-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Francium",
+            "symbol": "Fr",
+            "atomic_number": 87,
+            "atomic_mass": 223,
+            "electron_configuration": "[Rn] 7s1",
+            "oxidation_states": [1],
+            "common_uses": [
+                "Scientific research only",
+                "No significant commercial uses (highly radioactive)"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 27,
+                "boiling_point": 677
+            },
+            "element_groups": {
+                "category": "Alkali metal",
+                "group": 1,
+                "period": 7,
+                "block": "s-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Radium",
+            "symbol": "Ra",
+            "atomic_number": 88,
+            "atomic_mass": 226,
+            "electron_configuration": "[Rn] 7s2",
+            "oxidation_states": [2],
+            "common_uses": [
+                "Historically in luminescent paints",
+                "Radiation therapy (now replaced)",
+                "Scientific research"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 700,
+                "boiling_point": 1737
+            },
+            "element_groups": {
+                "category": "Alkaline earth metal",
+                "group": 2,
+                "period": 7,
+                "block": "s-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Actinium",
+            "symbol": "Ac",
+            "atomic_number": 89,
+            "atomic_mass": 227,
+            "electron_configuration": "[Rn] 6d1 7s2",
+            "oxidation_states": [3],
+            "common_uses": [
+                "Neutron source",
+                "Radioactive tracer",
+                "Potential cancer treatment"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 1050,
+                "boiling_point": 3200
+            },
+            "element_groups": {
+                "category": "Actinide",
+                "group": 3,
+                "period": 7,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Rutherfordium",
+            "symbol": "Rf",
+            "atomic_number": 104,
+            "atomic_mass": 267,
+            "electron_configuration": "[Rn] 5f14 6d2 7s2",
+            "oxidation_states": [4],
+            "common_uses": [
+                "Scientific research only",
+                "No known biological role"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid (predicted)",
+                "melting_point": "Unknown",
+                "boiling_point": "Unknown"
+            },
+            "element_groups": {
+                "category": "Transition metal",
+                "group": 4,
+                "period": 7,
+                "block": "d-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Dubnium",
+            "symbol": "Db",
+            "atomic_number": 105,
+            "atomic_mass": 268,
+            "electron_configuration": "[Rn] 5f14 6d3 7s2",
+            "oxidation_states": [5],
+            "common_uses": [
+                "Scientific research only"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid (predicted)",
+                "melting_point": "Unknown",
+                "boiling_point": "Unknown"
+            },
+            "element_groups": {
+                "category": "Transition metal",
+                "group": 5,
+                "period": 7,
+                "block": "d-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Seaborgium",
+            "symbol": "Sg",
+            "atomic_number": 106,
+            "atomic_mass": 269,
+            "electron_configuration": "[Rn] 5f14 6d4 7s2",
+            "oxidation_states": [6],
+            "common_uses": [
+                "Scientific research only"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid (predicted)",
+                "melting_point": "Unknown",
+                "boiling_point": "Unknown"
+            },
+            "element_groups": {
+                "category": "Transition metal",
+                "group": 6,
+                "period": 7,
+                "block": "d-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Bohrium",
+            "symbol": "Bh",
+            "atomic_number": 107,
+            "atomic_mass": 270,
+            "electron_configuration": "[Rn] 5f14 6d5 7s2",
+            "oxidation_states": [7],
+            "common_uses": [
+                "Scientific research only"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid (predicted)",
+                "melting_point": "Unknown",
+                "boiling_point": "Unknown"
+            },
+            "element_groups": {
+                "category": "Transition metal",
+                "group": 7,
+                "period": 7,
+                "block": "d-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Hassium",
+            "symbol": "Hs",
+            "atomic_number": 108,
+            "atomic_mass": 269,
+            "electron_configuration": "[Rn] 5f14 6d6 7s2",
+            "oxidation_states": [8],
+            "common_uses": [
+                "Scientific research only"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid (predicted)",
+                "melting_point": "Unknown",
+                "boiling_point": "Unknown"
+            },
+            "element_groups": {
+                "category": "Transition metal",
+                "group": 8,
+                "period": 7,
+                "block": "d-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Meitnerium",
+            "symbol": "Mt",
+            "atomic_number": 109,
+            "atomic_mass": 278,
+            "electron_configuration": "[Rn] 5f14 6d7 7s2",
+            "oxidation_states": "Unknown",
+            "common_uses": [
+                "Scientific research only"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid (predicted)",
+                "melting_point": "Unknown",
+                "boiling_point": "Unknown"
+            },
+            "element_groups": {
+                "category": "Unknown",
+                "group": 9,
+                "period": 7,
+                "block": "d-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Darmstadtium",
+            "symbol": "Ds",
+            "atomic_number": 110,
+            "atomic_mass": 281,
+            "electron_configuration": "[Rn] 5f14 6d9 7s1",
+            "oxidation_states": "Unknown",
+            "common_uses": [
+                "Scientific research only"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid (predicted)",
+                "melting_point": "Unknown",
+                "boiling_point": "Unknown"
+            },
+            "element_groups": {
+                "category": "Unknown",
+                "group": 10,
+                "period": 7,
+                "block": "d-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Roentgenium",
+            "symbol": "Rg",
+            "atomic_number": 111,
+            "atomic_mass": 282,
+            "electron_configuration": "[Rn] 5f14 6d10 7s1",
+            "oxidation_states": "Unknown",
+            "common_uses": [
+                "Scientific research only"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid (predicted)",
+                "melting_point": "Unknown",
+                "boiling_point": "Unknown"
+            },
+            "element_groups": {
+                "category": "Unknown",
+                "group": 11,
+                "period": 7,
+                "block": "d-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Copernicium",
+            "symbol": "Cn",
+            "atomic_number": 112,
+            "atomic_mass": 285,
+            "electron_configuration": "[Rn] 5f14 6d10 7s2",
+            "oxidation_states": [2],
+            "common_uses": [
+                "Scientific research only"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Gas (predicted)",
+                "melting_point": "Unknown",
+                "boiling_point": "Unknown"
+            },
+            "element_groups": {
+                "category": "Unknown",
+                "group": 12,
+                "period": 7,
+                "block": "d-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Nihonium",
+            "symbol": "Nh",
+            "atomic_number": 113,
+            "atomic_mass": 286,
+            "electron_configuration": "[Rn] 5f14 6d10 7s2 7p1",
+            "oxidation_states": "Unknown",
+            "common_uses": [
+                "Scientific research only"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid (predicted)",
+                "melting_point": "Unknown",
+                "boiling_point": "Unknown"
+            },
+            "element_groups": {
+                "category": "Unknown",
+                "group": 13,
+                "period": 7,
+                "block": "p-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Flerovium",
+            "symbol": "Fl",
+            "atomic_number": 114,
+            "atomic_mass": 289,
+            "electron_configuration": "[Rn] 5f14 6d10 7s2 7p2",
+            "oxidation_states": [2],
+            "common_uses": [
+                "Scientific research only"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid (predicted)",
+                "melting_point": "Unknown",
+                "boiling_point": "Unknown"
+            },
+            "element_groups": {
+                "category": "Unknown",
+                "group": 14,
+                "period": 7,
+                "block": "p-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Moscovium",
+            "symbol": "Mc",
+            "atomic_number": 115,
+            "atomic_mass": 290,
+            "electron_configuration": "[Rn] 5f14 6d10 7s2 7p3",
+            "oxidation_states": "Unknown",
+            "common_uses": [
+                "Scientific research only"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid (predicted)",
+                "melting_point": "Unknown",
+                "boiling_point": "Unknown"
+            },
+            "element_groups": {
+                "category": "Unknown",
+                "group": 15,
+                "period": 7,
+                "block": "p-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Livermorium",
+            "symbol": "Lv",
+            "atomic_number": 116,
+            "atomic_mass": 293,
+            "electron_configuration": "[Rn] 5f14 6d10 7s2 7p4",
+            "oxidation_states": [2],
+            "common_uses": [
+                "Scientific research only"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid (predicted)",
+                "melting_point": "Unknown",
+                "boiling_point": "Unknown"
+            },
+            "element_groups": {
+                "category": "Unknown",
+                "group": 16,
+                "period": 7,
+                "block": "p-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Tennessine",
+            "symbol": "Ts",
+            "atomic_number": 117,
+            "atomic_mass": 294,
+            "electron_configuration": "[Rn] 5f14 6d10 7s2 7p5",
+            "oxidation_states": "Unknown",
+            "common_uses": [
+                "Scientific research only"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid (predicted)",
+                "melting_point": "Unknown",
+                "boiling_point": "Unknown"
+            },
+            "element_groups": {
+                "category": "Unknown",
+                "group": 17,
+                "period": 7,
+                "block": "p-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Oganesson",
+            "symbol": "Og",
+            "atomic_number": 118,
+            "atomic_mass": 294,
+            "electron_configuration": "[Rn] 5f14 6d10 7s2 7p6",
+            "oxidation_states": ["Predicted: 0, +1, +2, +4, +6"],
+            "common_uses": [
+                "Scientific research only"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid (predicted)",
+                "melting_point": "Unknown",
+                "boiling_point": "Unknown"
+            },
+            "element_groups": {
+                "category": "Unknown",
+                "group": 18,
+                "period": 7,
+                "block": "p-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Cerium",
+            "symbol": "Ce",
+            "atomic_number": 58,
+            "atomic_mass": 140.12,
+            "electron_configuration": "[Xe] 4f1 5d1 6s2",
+            "oxidation_states": ["+3", "+4"],
+            "common_uses": [
+                "Lighter flints",
+                "Glass polishing compounds"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": "1068",
+                "boiling_point": "3716"
+            },
+            "element_groups": {
+                "category": "Lanthanoid",
+                "group": 4,
+                "period": 8,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Praseodymium",
+            "symbol": "Pr",
+            "atomic_number": 59,
+            "atomic_mass": 140.91,
+            "electron_configuration": "[Xe] 4f3 6s2",
+            "oxidation_states": ["+3", "+4"],
+            "common_uses": [
+                "Alloy in aircraft engines",
+                "Coloring glass and ceramics"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 1204,
+                "boiling_point": 3793
+            },
+            "element_groups": {
+                "category": "Lanthanoid",
+                "group": 5,
+                "period": 8,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Neodymium",
+            "symbol": "Nd",
+            "atomic_number": 60,
+            "atomic_mass": 144.24,
+            "electron_configuration": "[Xe] 4f4 6s2",
+            "oxidation_states": ["+3"],
+            "common_uses": [
+                "Strong permanent magnets",
+                "Lasers"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 1297,
+                "boiling_point": 3347
+            },
+            "element_groups": {
+                "category": "Lanthanoid",
+                "group": 6,
+                "period": 8,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Promethium",
+            "symbol": "Pm",
+            "atomic_number": 61,
+            "atomic_mass": 145,
+            "electron_configuration": "[Xe] 4f5 6s2",
+            "oxidation_states": ["+3"],
+            "common_uses": [
+                "Nuclear batteries",
+                "Research"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 1315,
+                "boiling_point": 3273
+            },
+            "element_groups": {
+                "category": "Lanthanoid",
+                "group": 7,
+                "period": 8,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Samarium",
+            "symbol": "Sm",
+            "atomic_number": 62,
+            "atomic_mass": 150.36,
+            "electron_configuration": "[Xe] 4f6 6s2",
+            "oxidation_states": ["+2", "+3"],
+            "common_uses": [
+                "Samarium-cobalt magnets",
+                "Neutron capture in reactors"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 1345,
+                "boiling_point": 2173
+            },
+            "element_groups": {
+                "category": "Lanthanoid",
+                "group": 8,
+                "period": 8,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Europium",
+            "symbol": "Eu",
+            "atomic_number": 63,
+            "atomic_mass": 151.96,
+            "electron_configuration": "[Xe] 4f7 6s2",
+            "oxidation_states": ["+2", "+3"],
+            "common_uses": [
+                "Phosphors in TV screens",
+                "Anticounterfeiting in Euro notes"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 1095,
+                "boiling_point": 1870
+            },
+            "element_groups": {
+                "category": "Lanthanoid",
+                "group": 9,
+                "period": 8,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Gadolinium",
+            "symbol": "Gd",
+            "atomic_number": 64,
+            "atomic_mass": 157.25,
+            "electron_configuration": "[Xe] 4f7 5d1 6s2",
+            "oxidation_states": ["+3"],
+            "common_uses": [
+                "MRI contrast agents",
+                "Neutron radiography"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 1585,
+                "boiling_point": 3546
+            },
+            "element_groups": {
+                "category": "Lanthanoid",
+                "group": 10,
+                "period": 8,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Terbium",
+            "symbol": "Tb",
+            "atomic_number": 65,
+            "atomic_mass": 158.93,
+            "electron_configuration": "[Xe] 4f9 6s2",
+            "oxidation_states": ["+3", "+4"],
+            "common_uses": [
+                "Green phosphors",
+                "Alloys and solid-state devices"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 1629,
+                "boiling_point": 3503
+            },
+            "element_groups": {
+                "category": "Lanthanoid",
+                "group": 11,
+                "period": 8,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Dysprosium",
+            "symbol": "Dy",
+            "atomic_number": 66,
+            "atomic_mass": 162.50,
+            "electron_configuration": "[Xe] 4f10 6s2",
+            "oxidation_states": ["+3"],
+            "common_uses": [
+                "Magnets for electric vehicles",
+                "Nuclear reactors"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 1685,
+                "boiling_point": 2835
+            },
+            "element_groups": {
+                "category": "Lanthanoid",
+                "group": 12,
+                "period": 8,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Holmium",
+            "symbol": "Ho",
+            "atomic_number": 67,
+            "atomic_mass": 164.93,
+            "electron_configuration": "[Xe] 4f11 6s2",
+            "oxidation_states": ["+3"],
+            "common_uses": [
+                "Magnetic field calibration",
+                "Lasers"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 1747,
+                "boiling_point": 2973
+            },
+            "element_groups": {
+                "category": "Lanthanoid",
+                "group": 13,
+                "period": 8,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Erbium",
+            "symbol": "Er",
+            "atomic_number": 68,
+            "atomic_mass": 167.26,
+            "electron_configuration": "[Xe] 4f12 6s2",
+            "oxidation_states": ["+3"],
+            "common_uses": [
+                "Fiber-optic communication",
+                "Lasers and alloys"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 1802,
+                "boiling_point": 3141
+            },
+            "element_groups": {
+                "category": "Lanthanoid",
+                "group": 14,
+                "period": 8,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Thulium",
+            "symbol": "Tm",
+            "atomic_number": 69,
+            "atomic_mass": 168.93,
+            "electron_configuration": "[Xe] 4f13 6s2",
+            "oxidation_states": ["+3"],
+            "common_uses": [
+                "Portable X-ray devices",
+                "Lasers"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 1818,
+                "boiling_point": 2223
+            },
+            "element_groups": {
+                "category": "Lanthanoid",
+                "group": 15,
+                "period": 8,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Ytterbium",
+            "symbol": "Yb",
+            "atomic_number": 70,
+            "atomic_mass": 173.05,
+            "electron_configuration": "[Xe] 4f14 6s2",
+            "oxidation_states": ["+2", "+3"],
+            "common_uses": [
+                "Infrared lasers",
+                "Stress gauges"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": 1097,
+                "boiling_point": 1469
+            },
+            "element_groups": {
+                "category": "Lanthanoid",
+                "group": 16,
+                "period": 8,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Lutetium",
+            "symbol": "Lu",
+            "atomic_number": 71,
+            "atomic_mass": 174.97,
+            "electron_configuration": "[Xe] 4f14 5d1 6s2",
+            "oxidation_states": ["+3"],
+            "common_uses": [
+                "Petroleum refining catalysts",
+                "Medical imaging"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": "1936",
+                "boiling_point": "3675"
+            },
+            "element_groups": {
+                "category": "Lanthanoid",
+                "group": 17,
+                "period": 8,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Thorium",
+            "symbol": "Th",
+            "atomic_number": 90,
+            "atomic_mass": 232.04,
+            "electron_configuration": "[Rn] 6d2 7s2",
+            "oxidation_states": ["+4"],
+            "common_uses": [
+                "Nuclear fuel",
+                "High-quality lenses"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": "2023",
+                "boiling_point": "5061"
+            },
+            "element_groups": {
+                "category": "Actinide",
+                "group": 4,
+                "period": 9,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Protactinium",
+            "symbol": "Pa",
+            "atomic_number": 91,
+            "atomic_mass": 231.04,
+            "electron_configuration": "[Rn] 5f2 6d1 7s2",
+            "oxidation_states": ["+5"],
+            "common_uses": [
+                "Scientific research"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": "1841",
+                "boiling_point": "4299"
+            },
+            "element_groups": {
+                "category": "Actinide",
+                "group": 5,
+                "period": 9,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Uranium",
+            "symbol": "U",
+            "atomic_number": 92,
+            "atomic_mass": 238.03,
+            "electron_configuration": "[Rn] 5f3 6d1 7s2",
+            "oxidation_states": ["+3", "+4", "+5", "+6"],
+            "common_uses": [
+                "Nuclear fuel",
+                "Armor-piercing ammunition"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": "1405",
+                "boiling_point": "4404"
+            },
+            "element_groups": {
+                "category": "Actinide",
+                "group": 6,
+                "period": 9,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Neptunium",
+            "symbol": "Np",
+            "atomic_number": 93,
+            "atomic_mass": 237,
+            "electron_configuration": "[Rn] 5f4 6d1 7s2",
+            "oxidation_states": ["+3", "+4", "+5", "+6", "+7"],
+            "common_uses": [
+                "Scientific research",
+                "Potential use in nuclear weapons"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": "910",
+                "boiling_point": "4273"
+            },
+            "element_groups": {
+                "category": "Actinide",
+                "group": 7,
+                "period": 9,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Plutonium",
+            "symbol": "Pu",
+            "atomic_number": 94,
+            "atomic_mass": 244,
+            "electron_configuration": "[Rn] 5f6 7s2",
+            "oxidation_states": ["+3", "+4", "+5", "+6", "+7"],
+            "common_uses": [
+                "Nuclear weapons",
+                "Nuclear reactors"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": "912",
+                "boiling_point": "3403"
+            },
+            "element_groups": {
+                "category": "Actinide",
+                "group": 8,
+                "period": 9,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Americium",
+            "symbol": "Am",
+            "atomic_number": 95,
+            "atomic_mass": 243,
+            "electron_configuration": "[Rn] 5f7 7s2",
+            "oxidation_states": ["+2", "+3", "+4", "+5", "+6"],
+            "common_uses": [
+                "Smoke detectors",
+                "Industrial gauges"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": "1449",
+                "boiling_point": "2880"
+            },
+            "element_groups": {
+                "category": "Actinide",
+                "group": 9,
+                "period": 9,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Curium",
+            "symbol": "Cm",
+            "atomic_number": 96,
+            "atomic_mass": 247,
+            "electron_configuration": "[Rn] 5f7 6d1 7s2",
+            "oxidation_states": ["+3", "+4"],
+            "common_uses": [
+                "Space probes (RTGs)",
+                "Scientific research"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": "1613",
+                "boiling_point": "3383"
+            },
+            "element_groups": {
+                "category": "Actinide",
+                "group": 10,
+                "period": 9,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Berkelium",
+            "symbol": "Bk",
+            "atomic_number": 97,
+            "atomic_mass": 247,
+            "electron_configuration": "[Rn] 5f9 7s2",
+            "oxidation_states": ["+3", "+4"],
+            "common_uses": [
+                "Scientific research"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": "1259",
+                "boiling_point": "2900"
+            },
+            "element_groups": {
+                "category": "Actinide",
+                "group": 11,
+                "period": 9,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Californium",
+            "symbol": "Cf",
+            "atomic_number": 98,
+            "atomic_mass": 251,
+            "electron_configuration": "[Rn] 5f10 7s2",
+            "oxidation_states": ["+2", "+3", "+4"],
+            "common_uses": [
+                "Neutron sources",
+                "Radiography of aircraft parts"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": "1173",
+                "boiling_point": "1743"
+            },
+            "element_groups": {
+                "category": "Actinide",
+                "group": 12,
+                "period": 9,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Einsteinium",
+            "symbol": "Es",
+            "atomic_number": 99,
+            "atomic_mass": 252,
+            "electron_configuration": "[Rn] 5f11 7s2",
+            "oxidation_states": ["+2", "+3"],
+            "common_uses": [
+                "Scientific research"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": "1133",
+                "boiling_point": "Unknown"
+            },
+            "element_groups": {
+                "category": "Actinide",
+                "group": 13,
+                "period": 9,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Fermium",
+            "symbol": "Fm",
+            "atomic_number": 100,
+            "atomic_mass": 257,
+            "electron_configuration": "[Rn] 5f12 7s2",
+            "oxidation_states": ["+2", "+3"],
+            "common_uses": [
+                "Scientific research"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": "1800",
+                "boiling_point": "Unknown"
+            },
+            "element_groups": {
+                "category": "Actinide",
+                "group": 14,
+                "period": 9,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Mendelevium",
+            "symbol": "Md",
+            "atomic_number": 101,
+            "atomic_mass": 258,
+            "electron_configuration": "[Rn] 5f13 7s2",
+            "oxidation_states": ["+2", "+3"],
+            "common_uses": [
+                "Scientific research"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": "1100",
+                "boiling_point": "Unknown"
+            },
+            "element_groups": {
+                "category": "Actinide",
+                "group": 15,
+                "period": 9,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Nobelium",
+            "symbol": "No",
+            "atomic_number": 102,
+            "atomic_mass": 259,
+            "electron_configuration": "[Rn] 5f14 7s2",
+            "oxidation_states": ["+2", "+3"],
+            "common_uses": [
+                "Scientific research"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid",
+                "melting_point": "1100",
+                "boiling_point": "Unknown"
+            },
+            "element_groups": {
+                "category": "Actinide",
+                "group": 16,
+                "period": 9,
+                "block": "f-block"
+            }
+        }
+    },
+    {
+        "element": {
+            "name": "Lawrencium",
+            "symbol": "Lr",
+            "atomic_number": 103,
+            "atomic_mass": 262,
+            "electron_configuration": "[Rn] 5f14 7s2 7p1",
+            "oxidation_states": ["+3"],
+            "common_uses": [
+                "Scientific research"
+            ],
+            "general_properties": {
+                "phase_at_stp": "Solid (predicted)",
+                "melting_point": "Unknown",
+                "boiling_point": "Unknown"
+            },
+            "element_groups": {
+                "category": "Actinide",
+                "group": 17,
+                "period": 9,
+                "block": "f-block"
+            }
+        }
+    }
+    
+
+]
+
+  
